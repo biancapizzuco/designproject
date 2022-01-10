@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+div{
+    background-size: cover;
+    background-position: bottom center;
+    height: 150px;
+    width: 150px;
+    border: 4px solid white;
+    padding: 50px;
+    margin: 20px;
+    display:inline-block;
+  }
+.text {
+    padding: 10px;
+    margin: 20px;
+    display:inline-block
+  }
+.rep1 {
+      background-image: url('https://64.media.tumblr.com/271060681dba8b820a44977737c4b507/tumblr_pklwzluPGH1x5ch93o9_500.png');
+  }
+.rep2 {
+    background-image: url('https://64.media.tumblr.com/b792892f75fc10f6901d4a9a0f83a89c/tumblr_pkoizzoFRo1x5ch93o10_250.png');
+}
+.rep3 {
+    background-image: url('https://64.media.tumblr.com/adec9ec2c6e61543d54c441ef3254e2d/0cbfaa9fa52ebc7e-2d/s1280x1920/50ebf1fa2326a913c7b8d6409f88c2fd0f2530e0.jpg');
+}
+.rep4 {
+    background-image: url('https://64.media.tumblr.com/6a76f4f24a81c238810423168e51f17e/0cbfaa9fa52ebc7e-e2/s1280x1920/cc68b1aabb1818bba82cee54f0bea56db9924e92.jpg');
+}
+.rep5 {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png');
+}
+body {
+    background-color: #bdbdbd;
+}
+.text{
+  color: #000000;
+  font-size: 20px;
+  font-family: infra;
+}
+h1 {
+  color: #000000;
+  font-family: subway;
+  font-size: 40px;
+}
+.button {
+  background-color: #000000;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: subway;
+  margin: 10px;
+  padding: 10px;
+}

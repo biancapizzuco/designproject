@@ -1,0 +1,62 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+div{
+    background-size: cover;
+    background-position: bottom center;
+    height: 150px;
+    width: 150px;
+    border: 4px solid white;
+    padding: 50px;
+    margin: 20px;
+    display:inline-block;
+    align-items: center;
+  }
+.text {
+    padding: 10px;
+    margin: 20px;
+    display:inline-block
+  }
+.nineteen1 {
+      background-image: url('https://beingmelissavon.weebly.com/uploads/2/1/0/8/21082312/1215645.jpg');
+  }
+.nineteen2 {
+    background-image: url('https://beingmelissavon.weebly.com/uploads/2/1/0/8/21082312/7452087.jpg');
+}
+.nineteen3 {
+    background-image: url('https://beingmelissavon.weebly.com/uploads/2/1/0/8/21082312/6389445.jpg');
+}
+.nineteen4 {
+    background-image: url('https://beingmelissavon.weebly.com/uploads/2/1/0/8/21082312/3959248.jpg');
+}
+.nineteen5 {
+    background-image: url('https://pyxis.nymag.com/v1/imgs/5a1/58c/580de90bf142c7660dcbaf8faa789a61b1-20-taylor-swift-1989.2x.w710.png');
+}
+body {
+    background-color: #cee2ec;
+}
+.text{
+  color: #719bb3;
+  font-size: 20px;
+  font-family: infra;
+}
+h1 {
+  color: #719bb3;
+  font-family: subway;
+  font-size: 40px;
+}
+.button {
+  background-color: #719bb3;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: subway;
+  margin: 10px;
+  padding: 10px;
+}

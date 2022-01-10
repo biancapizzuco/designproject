@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+div{
+    background-size: cover;
+    background-position: bottom center;
+    height: 150px;
+    width: 150px;
+    border: 4px solid white;
+    padding: 50px;
+    margin: 20px;
+    display:inline-block;
+  }
+.text {
+    padding: 10px;
+    margin: 20px;
+    display:inline-block
+  }
+.red1 {
+      background-image: url('https://64.media.tumblr.com/6d999189d7558611c664f75b623225ce/4113f6c74accca89-3e/s1280x1920/959d1c747da4e1d248c4d4a0480ce656c10d6d6e.jpg');
+  }
+.red2 {
+    background-image: url('https://64.media.tumblr.com/0656eb0460918e01d1d163865960e8db/4113f6c74accca89-01/s1280x1920/38c87a1fcb54b6feff79bf17f849f4aa86681c77.jpg');
+}
+.red3 {
+    background-image: url('https://64.media.tumblr.com/93df46da22c920246b0f4203eab1eac2/4113f6c74accca89-2d/s1280x1920/18224c91389ecf7b86a94fc618d0094385b3da8a.jpg');
+}
+.red4 {
+    background-image: url('https://64.media.tumblr.com/d367b1cfa7719ea97f99471c2c121f64/4113f6c74accca89-f0/s1280x1920/cc1c46a396d474304305da7c0b79b292c5b36dff.jpg');
+}
+.red5 {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/4/47/Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png/220px-Taylor_Swift_-_Red_%28Taylor%27s_Version%29.png');
+}
+body {
+    background-color: #be8564;
+}
+.text{
+  color: #693838;
+  font-size: 20px;
+  font-family: infra;
+}
+h1 {
+  color: #693838;
+  font-family: subway;
+  font-size: 40px;
+}
+.button {
+  background-color: #693838;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: subway;
+  margin: 10px;
+  padding: 10px;
+}

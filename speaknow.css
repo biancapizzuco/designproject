@@ -1,0 +1,61 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+div{
+    background-size: cover;
+    background-position: bottom center;
+    height: 150px;
+    width: 150px;
+    border: 4px solid white;
+    padding: 50px;
+    margin: 20px;
+    display:inline-block;
+  }
+.text {
+    padding: 10px;
+    margin: 20px;
+    display:inline-block
+  }
+.sn1 {
+      background-image: url('https://i.pinimg.com/564x/c5/1e/32/c51e3255cab1b85d03ef692a2b731210.jpg');
+  }
+.sn2 {
+    background-image: url('https://64.media.tumblr.com/f69047c57fbc6e9fc27f2c01607eef71/6055781e674fe0ea-c0/s540x810/0d86d31b8ae7e0d5ce375c1832df7f422468423e.jpg');
+}
+.sn3 {
+    background-image: url('https://64.media.tumblr.com/7e6e61238f4e953c2b4b8922d9a92e16/6055781e674fe0ea-01/s400x600/288f75afef318f6e0d7f84461fdaecc4b89a0950.jpg');
+}
+.sn4 {
+    background-image: url('https://64.media.tumblr.com/b37c2c2a0d71923b9d2f6b357101670b/6055781e674fe0ea-0b/s1280x1920/3ddd4ce77b1ce223312a142f6a9a98fc67b69283.jpg');
+}
+.sn5 {
+    background-image: url('https://upload.wikimedia.org/wikipedia/en/8/8f/Taylor_Swift_-_Speak_Now_cover.png');
+}
+body {
+    background-color: #f8e0ff;
+}
+.text{
+  color: #713b79;
+  font-size: 20px;
+  font-family: infra;
+}
+h1 {
+  color: #713b79;
+  font-family: subway;
+  font-size: 40px;
+}
+.button {
+  background-color: #713b79;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  font-family: subway;
+  margin: 10px;
+  padding: 10px;
+}
